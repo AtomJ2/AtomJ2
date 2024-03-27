@@ -7,7 +7,7 @@
 ---
 
 ☯️: About me :
-- I'm studing at **Novosibirsk State University**
+- I'm student of **Novosibirsk State University**
 
 ---
 
