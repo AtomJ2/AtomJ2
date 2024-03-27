@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![1](https://github.com/AtomJ2/AtomJ2/assets/42699170/9b5bab01-de2e-4fdc-9ca7-2dfeb1accdd1)
-
+<div id="header" align="center">
+  <img src="https://github.com/AtomJ2/AtomJ2/assets/42699170/9b5bab01-de2e-4fdc-9ca7-2dfeb1accdd1" width="500"/>
+</div>
 
 ---
 
