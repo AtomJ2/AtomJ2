@@ -6,7 +6,7 @@
 
 ---
 
-💜: About me :
+☯️: About me :
 - I'm studing at **Novosibirsk State University**
 
 ---
