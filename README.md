@@ -7,7 +7,9 @@
 ---
 
 ☯️: About me :
-- I'm a student of **Novosibirsk State University**
+- I'm a 3rd-year student of **Novosibirsk State University**
+- DL specialist
+- Python programmer
 
 ---
 
