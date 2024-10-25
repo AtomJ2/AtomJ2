@@ -6,13 +6,13 @@
 
 ---
 
-☯️: About me :
+## ☯️: About me :
 - I'm a 3rd-year student of **Novosibirsk State University**
 - Python/C++ programmer
 
 ---
 
-## 💼 Popular Repositories
+## 💼 Popular Repositor
 - [BirdCLEF 2024](https://github.com/AtomJ2/BirdCLEF): Participation in the BirdCLEF 2024 competition (PyTorch)
 - [BitArray](https://github.com/AtomJ2/BitArray): A library for working with bit arrays in C++
 - [Conway-s-Game-of-Life](https://github.com/AtomJ2/Conway-s-Game-of-Life): Implementation of Conway's "Game of Life" in C++
@@ -26,7 +26,7 @@
 
 ---
 
-👾: My Stats :
+## 👾: My Stats :
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtomJ2&theme=jolly" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtomJ2&theme=jolly" alt=""/>
