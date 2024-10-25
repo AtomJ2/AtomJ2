@@ -4,8 +4,6 @@
   <img src="https://github.com/AtomJ2/AtomJ2/assets/42699170/9b5bab01-de2e-4fdc-9ca7-2dfeb1accdd1" width="500"/>
 </div>
 
----
-
 ## ☯️: About me :
 - I'm a 3rd-year student of **Novosibirsk State University**
 - Python/C++ programmer
