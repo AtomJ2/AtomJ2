@@ -6,7 +6,7 @@
 
 ## ☯️: About me :
 - I'm a 3rd-year student of **Novosibirsk State University**
-- Python/C++ programmer
+- Python programmer
 
 ---
 
