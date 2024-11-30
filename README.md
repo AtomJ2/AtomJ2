@@ -10,7 +10,7 @@
 
 ---
 
-## 💼 Popular Repositor
+## 💼 Popular Repositories
 - [BirdCLEF 2024](https://github.com/AtomJ2/BirdCLEF): Participation in the BirdCLEF 2024 competition (PyTorch)
 - [BitArray](https://github.com/AtomJ2/BitArray): A library for working with bit arrays in C++
 - [Conway-s-Game-of-Life](https://github.com/AtomJ2/Conway-s-Game-of-Life): Implementation of Conway's "Game of Life" in C++
