@@ -21,6 +21,7 @@
 ## 💻 Current projects:
 - Translator for Russian Sign Language using deep learning
 - Development of a robotic arm
+- Universal programming testing system
 
 ---
 
