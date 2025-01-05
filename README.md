@@ -6,7 +6,9 @@
 
 ## ☯️: About me :
 - I'm a 3rd-year student of **Novosibirsk State University**
-- Python programmer
+- Python programmer  
+- Worked at the **Artificial Intelligence Research Center** of NSU from **July to December 2024**
+- Open to new job opportunities  
 
 ---
 
@@ -15,12 +17,10 @@
 - [BitArray](https://github.com/AtomJ2/BitArray): A library for working with bit arrays in C++
 - [Conway-s-Game-of-Life](https://github.com/AtomJ2/Conway-s-Game-of-Life): Implementation of Conway's "Game of Life" in C++
 - [RoadSegmentation](https://github.com/AtomJ2/RoadSegmentation): Road segmentation in Massachusetts (PyTorch)
-- [ini_files](https://github.com/AtomJ2/ini_files): Working with INI files in C++
 - [SoundProcessor](https://github.com/AtomJ2/SoundProcessor): Sound processing in C++
 
 ## 💻 Current projects:
 - Translator for Russian Sign Language using deep learning
-- Development of a robotic arm
 - Universal programming testing system
 
 ---
@@ -31,3 +31,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtomJ2&theme=jolly" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtomJ2&theme=jolly" alt=""/>
 </div>
+
+--- 
