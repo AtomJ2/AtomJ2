@@ -7,7 +7,7 @@
 ## ☯️: About me :
 - I'm a 3rd-year student of **Novosibirsk State University**
 - Python programmer  
-- Worked at the **Artificial Intelligence Research Center** of NSU from **July to December 2024**
+- Worked at the **Artificial Intelligence Research Center** of NSU from **July to January 2024**
 - Open to new job opportunities  
 
 ---
